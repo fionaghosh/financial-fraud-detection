@@ -91,5 +91,5 @@ README.md
 
 ## Author
 
-**Fiona Ghosh** — Master of Data Science, Deakin University
-[Portfolio](#) · [LinkedIn](https://linkedin.com/in/fiona-ghosh) · [GitHub](https://github.com/fionaghosh)
+**Fiona Ghosh** 
+[Portfolio](https://fionaghosh.github.io/) · [LinkedIn](https://linkedin.com/in/fiona-ghosh) · [GitHub](https://github.com/fionaghosh)
