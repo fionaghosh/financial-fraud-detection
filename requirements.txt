@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy<2
 scikit-learn
-xgboost
-shap
+xgboost==2.0.3
+shap==0.44.1
 matplotlib
 joblib
