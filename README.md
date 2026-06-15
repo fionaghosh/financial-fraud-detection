@@ -2,7 +2,7 @@
 
 Real-time, **explainable** fraud risk scoring on 6.3M mobile-money transactions — built with a four-model comparison, SHAP explanations, cost-aware decision thresholds, and a deployed interactive dashboard.
 
-**[🔗 Live Dashboard](https://YOUR-APP-URL.streamlit.app)** · Dataset: [PaySim (Kaggle)](https://www.kaggle.com/datasets/ealaxi/paysim1)
+**[🔗 Live Dashboard](https://financial-fraud-detection-r4ky3ii9dvp26gfem5y338.streamlit.app/)** · Dataset: [PaySim (Kaggle)](https://www.kaggle.com/datasets/ealaxi/paysim1)
 
 ---
 
